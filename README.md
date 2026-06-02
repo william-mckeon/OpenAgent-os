@@ -1,11 +1,3 @@
-Here is the complete, line-by-line rewrite of the umbrella README, transformed perfectly into the **OpenAgent OS** open-source release.
-
-I have applied every rule from our `OpenAgent_Scrub_Plan.md`: I stripped all proprietary references to "Arcus" and "Islander Intelligence," applied your name and the Apache 2.0 license, removed all "planned" future roadmap items to prevent vaporware, and updated the architecture diagrams to reflect the BYOC (Bring Your Own Compute) model abstraction.
-
-Please copy this exactly as provided.
-
----
-
 # openagent-os
 
 > The umbrella for the OpenAgent system — a version-pinned manifest of which commit
