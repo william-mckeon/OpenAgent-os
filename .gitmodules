@@ -1,12 +1,12 @@
-[submodule "openagent-frontend"]
-	path = openagent-frontend
-	url = https://github.com/william-mckeon/openagent-frontend.git
-[submodule "openagent-api"]
-	path = openagent-api
-	url = https://github.com/william-mckeon/openagent-api.git
-[submodule "openagent-infra"]
-	path = openagent-infra
-	url = https://github.com/william-mckeon/openagent-infra.git
-[submodule "openagent-logger"]
-	path = openagent-logger
-	url = https://github.com/william-mckeon/openagent-logger.git
+[submodule "OpenAgent-frontend"]
+	path = OpenAgent-frontend
+	url = https://github.com/william-mckeon/OpenAgent-frontend.git
+[submodule "OpenAgent-api"]
+	path = OpenAgent-api
+	url = https://github.com/william-mckeon/OpenAgent-api.git
+[submodule "OpenAgent-infra"]
+	path = OpenAgent-infra
+	url = https://github.com/william-mckeon/OpenAgent-infra.git
+[submodule "OpenAgent-logger"]
+	path = OpenAgent-logger
+	url = https://github.com/william-mckeon/OpenAgent-logger.git
