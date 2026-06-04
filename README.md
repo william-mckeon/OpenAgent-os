@@ -83,7 +83,7 @@ A few principles shaped the design:
                 Bearer PROVIDER_API_KEY                │ PostgreSQL
                               ▼                        ▼
                     ┌─────────────────────┐  ┌─────────────────────┐
-                    │ BYOC Cloud/vLLM     │  │ openagent-shared-db │
+                    │ BYOC Provider       │  │ openagent-shared-db │
                     │ base model          │  │ schema              │
                     │ nervous-system      │  │ openagent_logger    │
                     └─────────────────────┘  └─────────────────────┘
