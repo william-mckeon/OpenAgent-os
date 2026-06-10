@@ -10,3 +10,6 @@
 [submodule "OpenAgent-logger"]
 	path = OpenAgent-logger
 	url = https://github.com/william-mckeon/OpenAgent-logger.git
+[submodule "openagent-memory"]
+	path = openagent-memory
+	url = https://github.com/william-mckeon/openagent-memory.git
